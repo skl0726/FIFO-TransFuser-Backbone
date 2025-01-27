@@ -1,4 +1,4 @@
-# FIFO+Transfuser Backbone Multimodal Model
+# FIFO+TransFuser Backbone Multimodal Model
 
 ## Model Structure
 <img src="./structure.jpg" width="80%">
