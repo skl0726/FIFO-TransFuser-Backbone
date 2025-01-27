@@ -11,6 +11,7 @@ Designed multimodal (image + radar heat map) FIFO-TransFuser backbone model (seg
 <img src="./structure.jpg" width="80%">
 
 - Backbone: backbone.py
+- Inference: test.py
 - .pth file path: ./FIFO_final_model.pth (.pth file can be obtained from FIFO GitHub (see below))
 
 ### Inference Test
