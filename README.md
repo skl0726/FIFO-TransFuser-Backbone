@@ -1,7 +1,5 @@
 # FIFO+TransFuser Backbone Multimodal Model
 
-FIFO_final_model.pth 경로 -> ./FIFO_final_model.pth
-
 ## Model Overview
 
 ### Description
