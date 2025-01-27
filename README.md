@@ -1,4 +1,4 @@
-# FIFO+TransFuser Backbone Multimodal Model
+# Multimodal FIFO-TransFuser Backbone Model
 
 ## Model Overview
 
