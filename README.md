@@ -3,7 +3,7 @@
 ## Model Overview
 
 ### Description
-Designed multimodal (image + radar heat map) TransFuser backbone model (segmentation) on foggy situation
+Designed multimodal (image + radar heat map) FIFO-TransFuser backbone model (segmentation) on foggy situation
 - TransFuser input: radar heat map and output feature map of FIFO model (FIFO generate image feature map that is robust to foggy situations)
 - FIFO model input: image
 
